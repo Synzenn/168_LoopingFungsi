@@ -15,7 +15,7 @@ int main() {
 		cout << "Perulangan While" << endl;
 		x = rand() % 10;
 
-		cout << "Nilai X : " << x << endl
+		cout << "Nilai X : " << x << endl;
 	}
 	
 }

@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PertemuanKetigaKelasD", "Pe
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WhileLoop", "WhileLoop\WhileLoop.vcxproj", "{A100A6FF-0CDC-4095-B98A-6E0AF49F1635}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PertemuanKetigaPart3", "PertemuanKetigaPart3\PertemuanKetigaPart3.vcxproj", "{9FAD4BFD-410F-4D28-A927-395478CD903D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{A100A6FF-0CDC-4095-B98A-6E0AF49F1635}.Release|x64.Build.0 = Release|x64
 		{A100A6FF-0CDC-4095-B98A-6E0AF49F1635}.Release|x86.ActiveCfg = Release|Win32
 		{A100A6FF-0CDC-4095-B98A-6E0AF49F1635}.Release|x86.Build.0 = Release|Win32
+		{9FAD4BFD-410F-4D28-A927-395478CD903D}.Debug|x64.ActiveCfg = Debug|x64
+		{9FAD4BFD-410F-4D28-A927-395478CD903D}.Debug|x64.Build.0 = Debug|x64
+		{9FAD4BFD-410F-4D28-A927-395478CD903D}.Debug|x86.ActiveCfg = Debug|Win32
+		{9FAD4BFD-410F-4D28-A927-395478CD903D}.Debug|x86.Build.0 = Debug|Win32
+		{9FAD4BFD-410F-4D28-A927-395478CD903D}.Release|x64.ActiveCfg = Release|x64
+		{9FAD4BFD-410F-4D28-A927-395478CD903D}.Release|x64.Build.0 = Release|x64
+		{9FAD4BFD-410F-4D28-A927-395478CD903D}.Release|x86.ActiveCfg = Release|Win32
+		{9FAD4BFD-410F-4D28-A927-395478CD903D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
