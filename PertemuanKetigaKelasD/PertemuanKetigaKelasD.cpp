@@ -21,4 +21,5 @@ int main() {
 		cout << "Data Array Ke-" << i << " :" << arr[i] << endl;
 	}
 
+	return 0;
 }
