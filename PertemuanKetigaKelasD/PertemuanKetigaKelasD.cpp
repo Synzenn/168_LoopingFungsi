@@ -10,4 +10,11 @@ int main() {
 		cout << i << " Selamat Pagi Dunia" << endl;
 	}
 
+	cout << "Nilai i terakhir :" << i << endl;
+
+	for (i = 0; i < 5; i++) {
+		cout << "Masukkan Nilai Indek ke-" << i << " :";
+		cin >> arr[i];
+	}
+
 }
