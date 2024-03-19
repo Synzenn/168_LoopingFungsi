@@ -8,3 +8,15 @@ void inputdata() {
 	cin >> sisi;
 }
 
+int hitungluas() {
+	return sisi * sisi;
+}
+
+void display() {
+	cout << "Luas Persegi :" << hitungluas() << endl;
+}
+
+int main() {
+	inputdata();
+	display();
+}
